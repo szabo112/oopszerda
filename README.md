@@ -1,0 +1,2 @@
+# oopszerda
+szerdai oop
